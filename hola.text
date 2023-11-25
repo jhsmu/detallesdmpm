@@ -1,0 +1,111 @@
+<section class="best-seller">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="bar">
+                    <h2>LO MAS VENDIDO</h2>
+                    <img alt="" src="img/bar.jpg">
+                </div>
+            </div>
+        </div>
+        <div class="best-seller-part">
+        <div class="row">
+            <div class="col-md-7">
+                <div class="row">
+                    <div class="col-md-4">
+                        <div class="best-sell-part">
+                            <img src="img/ancheta16.jpg" alt="">
+                            <p><i class="fa fa-heart" aria-hidden="true"></i></p>
+                        </div>
+                       <!-- Update the product section with the "Add to Cart" button -->
+                       <div class="s_product">
+    <img alt="" src="img/ancheta1.jpg">
+    <div class="s_overlay"></div>
+    <h2>VENTA!</h2>
+    <h3>ANCHETA</h3>
+    <!-- Use a button instead of h4 and call addToCart function on click -->
+    <button onclick="addToCart('Ancheta', 85000)"><i aria-hidden="true" class="fa fa-cart-arrow-down"></i>Añade al carrito</button>
+</div>
+
+                    </div>
+                    <div class="col-md-4">
+                        <div class="best-sell-part">
+                            <img src="img/ancheta19.jpg" alt="">
+                            <p><i class="fa fa-heart" aria-hidden="true"></i></p>
+                        </div>
+                      <!-- Update the product section with the "Add to Cart" button -->
+                      <div class="s_product">
+    <img alt="" src="img/ancheta1.jpg">
+    <div class="s_overlay"></div>
+    <h2>VENTA!</h2>
+    <h3>ANCHETA</h3>
+    <!-- Use a button instead of h4 and call addToCart function on click -->
+    <button onclick="addToCart('Ancheta', 85000)"><i aria-hidden="true" class="fa fa-cart-arrow-down"></i>Añade al carrito</button>
+</div>
+
+                    </div>
+                    <div class="col-md-4">
+                        <div class="best-sell-part">
+                            <img src="img/ancheta20.jpg" alt="">
+                            <p><i class="fa fa-heart" aria-hidden="true"></i></p>
+                        </div>
+                       <!-- Update the product section with the "Add to Cart" button -->
+                       <div class="s_product">
+    <img alt="" src="img/ancheta1.jpg">
+    <div class="s_overlay"></div>
+    <h2>VENTA!</h2>
+    <h3>ANCHETA</h3>
+    <!-- Use a button instead of h4 and call addToCart function on click -->
+    <button onclick="addToCart('Ancheta', 85000)"><i aria-hidden="true" class="fa fa-cart-arrow-down"></i>Añade al carrito</button>
+</div>
+
+                    </div>
+                </div>
+            </div>
+                <div class="col-md-5">
+                    <div class="winter-cloth">
+                   <div class="big-cloth">
+                       <img src="img/ancheta11.jpg" alt="">
+                   </div>
+                   <div class="row">
+                      <div class="col-md-12">
+                           <div class="s-cloth">
+                               <img src="img/ancheta11.jpg" alt="">
+                           </div>
+                           <div class="s-cloth">
+                               <img src="img/ancheta11.jpg" alt="">
+                           </div>
+                           <div class="s-cloth">
+                               <img src="img/ancheta11.jpg" alt="">
+                           </div>
+                           <div class="s-cloth">
+                               <img src="img/ancheta11.jpg" alt="">
+                           </div>
+                       </div>
+                   </div>
+                   <div class="row">
+                       <div class="col-md-12">
+                           <div class="w_text">
+                               <h4>paquete</h4>
+                               <h5>Obtenga este paquete</h5>
+                           </div>
+                       </div>
+                   </div>
+                   <div class="row">
+                       <div class="col-md-6">
+                           <div class="dollar">
+                               <p>&#36;$450.000</p>
+                           </div>
+                       </div>
+                       <div class="col-md-6">
+                           <div class="option">
+                               <button>SELECCIONE ESTA OPCION</button>
+                           </div>
+                       </div>
+                   </div>
+                </div>
+            </div>
+        </div>
+        </div>
+    </div>
+</section> 
